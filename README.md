@@ -8,7 +8,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
+  #### :🤦‍♂️: 어려워 미쳐<br/>
   #### :fire: I aim to become a ...<br/>
   #### :mortar_board: ...
   <br/>
